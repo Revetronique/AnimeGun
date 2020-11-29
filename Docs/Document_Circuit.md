@@ -2,14 +2,20 @@
 ## 概要
 アニメ銃に組み込むArduino用シールドです。[Circuit](../Circuit)内にデータを保管してます。
 ## 回路図
-- 本体用シールド
+本体用シールド
+
 ![Schematics](../Docs/images/AnimeGun_schematics_v1.png)
-- パワーLED用ハイサイドスイッチ
+
+パワーLED用ハイサイドスイッチ
+
 ![Highside](../Docs/images/HighSideSwitch_LED_schematics_v1.png)
 ## 基板パターン(未使用)
-- 基板配線
+基板配線
+
 ![PCB_nopat](../Docs/images/AnimeGun_pcb_nopat_v1.png)
-- ベタパターンあり
+
+ベタパターンあり
+
 ![PCB](../Docs/images/AnimeGun_pcb_v1.png)
 ## ファイル内容
 - [回路図(Eagle)](../Circuit/AnimeGun_v1.sch)
