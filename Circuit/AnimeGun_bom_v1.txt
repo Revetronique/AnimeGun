@@ -1,0 +1,45 @@
+Partlist exported from C:/Users/kokit/OneDrive/ドキュメント/EAGLE/projects/AnimeGun/AnimeGun-v1.sch at 2020/11/28 15:33
+
+Part      Value          Device             Package        Description                                     MF MPN           OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+74HC154                  DIL24-3            DIL24-3        Dual In Line                                                                          0                     
+C1        100u           CPOL-EU153CLV-0605 153CLV-0605    POLARIZED CAPACITOR, European symbol                                                  5          C          
+C2        0.1u           C-EUC0603          C0603          CAPACITOR, European symbol                                                            73         C          
+DIS1      HD-K121        HD-K121            HDSP-R         LED DISPLAY                                                      unknown    unknown   0                     
+IC1       NJM4617        NJM4617            TO263_5        1A Constant-Current LED Driver with PWM Dimming    CAT4101TV-T75 1718452    08R5264                         
+J1                       J2X2MM             04C            Jumper switch 2 x 2.5 mm                                                                                    
+JP1       Vin            PINHD-1X3          1X03           PIN HEADER                                                                            92                    
+JP2       LED            PINHD-1X2          1X02           PIN HEADER                                                                            98                    
+JP3                      PINHD-1X2          1X02           PIN HEADER                                                                            98                    
+PIN_LED                  PINHD-1X4/90       1X04/90        PIN HEADER                                                                            9                     
+PIN_MOTOR                PINHD-1X6/90       1X06/90        PIN HEADER                                                                            10                    
+Q1        BSS123         BSS123             SOT23          N-CHANNEL MOS FET                                                                                           
+Q2        BSS84          BSS84              SOT23          P-CHANNEL MOS FET                                                                                           
+R1        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R2        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R3        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R4        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R5        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R6        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R7        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R8        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R9        100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R10       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R11                      R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R12       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R13       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R14       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R15       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R16       100            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R17       10k            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R18       10k            R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R19       1.2k           R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R20                      TRIM_EU-B25U       B25U           POTENTIOMETER                                                                                               
+R21       1              R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R22       1k             R-EU_R2512         R2512          RESISTOR, European symbol                                                             0          R          
+R23       220            R-EU_R2512         R2512          RESISTOR, European symbol                                                             0          R          
+R24       100k           R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+R25       47             R-EU_R0603         R0603          RESISTOR, European symbol                                                             70         R          
+S1                       10-XX              B3F-10XX       OMRON SWITCH                                       B3F-1000      176432     36M3542   72                    
+S3        TL32YO         TL32YO             TL3XYO         TINY SWITCH ON - MOM                                                                  1                     
+TA7774PG                 DIL16              DIL16          Dual In Line / Socket                                                                 2                     
+U1        ARDUINO-NOHOLE ARDUINO-NOHOLE     ARDUINO-NOHOLE Arduino Diecimila/Duemilanove                                                                               
